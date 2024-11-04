@@ -51,4 +51,4 @@ If you'd like to fine-tune SDXL with a custom dataset:
    ```json
    { "file_name": "example.png", "text": "Description of the image content." }
 
-To use this dataset, replace --dataset_name with --train_data_dir="/path/to/your/image-folder" in the script, ensuring it references your local image directory.
+To use this dataset, replace `--dataset_name` with `--train_data_dir="/path/to/your/image-folder"` in the script, ensuring it references your local image directory.
