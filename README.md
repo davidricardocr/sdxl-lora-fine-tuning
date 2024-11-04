@@ -43,7 +43,7 @@ For a detailed explanation of each parameter, refer to the documentation provide
 
 After completing the fine-tuning process, load the resulting LoRA weights into the Stable Diffusion XL pipeline to generate customized images. The notebook includes sample code to demonstrate how to load the weights and generate images based on specific prompts.
 
-## Using Your Own Dataset
+## Using Your Dataset
 
 If you'd like to fine-tune SDXL with a custom dataset:
 1. Create a folder (e.g., `/Content/my-dataset/`) containing all images in PNG or JPG format.
